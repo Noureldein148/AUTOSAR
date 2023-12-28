@@ -1,0 +1,8 @@
+"./Src/Det.o"
+"./Src/Port.o"
+"./Src/Port_PBCFG.o"
+"./Src/RCC_Prog.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c6tx.o"
