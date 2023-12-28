@@ -1,5 +1,0 @@
-../Src/Port.c:43:6:Port_Init	40	static
-../Src/Port.c:228:6:Port_SetPinDirection	40	static
-../Src/Port.c:342:6:Port_RefreshPortDirection	32	static
-../Src/Port.c:480:6:Port_SetPinMode	40	static
-../Src/Port.c:581:7:Port_GetVersionInfo	16	static

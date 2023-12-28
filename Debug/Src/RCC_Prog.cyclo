@@ -1,3 +1,0 @@
-../Src/RCC_Prog.c:14:6:RCC_VidInit	3
-../Src/RCC_Prog.c:149:6:RCC_VidEnablePeripheralClock	5
-../Src/RCC_Prog.c:172:6:RCC_VidDisablePeripheralClock	5
